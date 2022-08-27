@@ -1,0 +1,7 @@
+#resultado{
+    width: 50%;
+    height: 60px;
+    display: block;
+    word-break: keep-all;
+    white-space: nowrap;
+}
